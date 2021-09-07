@@ -40,6 +40,9 @@ Dropped Data
 
 <p>Knowing the housing market is one that is built and run upon racial lines (study), it is important to analyze how race might impact eviction rates in this dataset.</p>
 
+![img](./images/ethnicity_eviction_rates.png)
+
+
 Key Findings
 1. Groups with higher eviction rates when possessing a majority 
     - African American 
@@ -53,6 +56,9 @@ Key Findings
 
 ### Eviction Rates Amongst Gender Majorities
 <p>The same analysis above is also conducted for gender.</p> 
+
+![img](./images/gender_eviction_rates.png)
+
 
 Key Findings
 1. Census tracts with women holding a majority have a median eviction rate that is 0.21% higher than the median eviction rate of census tracts with men holding a majority 
@@ -87,6 +93,22 @@ Key Findings
 - RMSE 
     - 0.8258
     - 0.8191
-
-
+    
 <p>The final model is able to account for 94% of the variance in observed census tract eviction rates based upon the available features, and is able to predict an eviction rate within 0.81 percentage points.</p>
+
+### Feature / Permuation Importances
+
+<p>Comparisons between the final model's feature importances and permutation importances offer valuable insight into the functioning of the model.</p>
+
+<p float="left">
+  <img src="./images/perm_top5.png" width="350" />
+  <img src="./images/perm_bottom.png" width="350" /> 
+</p> 
+
+![img]('.images/feature_importances.png')
+
+Key Findings
+1. Evicition Filing Rate is calculated as the most important features by both methods
+
+
+
