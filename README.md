@@ -10,10 +10,10 @@ To address the skyrocketing rate of evictions in the United States, the focus of
 ## Background 
 
 <p>A person is evicted when they are expelled from a property by the property’s landlord. Landlords can evict tenants for a variety of reasons, including unpaid rent, or damaged properties; however, landlords can perform ‘no-fault evictions,’ when a tenant has not violated their leasing contract. Evictions should not only be observed as an issue of housing, but as an issue of public health as well. A family that experiences an eviction is much more likely to experience a host of mental health issues, job loss, and homelessness. As the COVID-19 pandemic persists and the national eviction moratorium has ended, many Americans are finding that they are at a higher risk of eviction as contracting COVID-19 as a direct result. </p>
- - [source](https://evictionlab.org/why-eviction-matters/#eviction-impact)
+[source](https://evictionlab.org/why-eviction-matters/#eviction-impact)
 
 <p>The ability to foresee a census tract’s eviction rate is crucial for the allocation of appropriate resources. 90% of tenants facing evictions do not receive legal representation for their legal case, and are much more likely to be evicted than the 10% with representation. Knowing this, the ability to foresee a census tract’s eviction rate is crucial for allocating free legal resources in areas that face the greatest risks of eviction.</p>
-- [source](https://www.irp.wisc.edu/publications/fastfocus/pdfs/FF22-2015.pdf)
+[source](https://www.irp.wisc.edu/publications/fastfocus/pdfs/FF22-2015.pdf)
 
 
 ## Methodology 
@@ -21,8 +21,8 @@ To address the skyrocketing rate of evictions in the United States, the focus of
  <p>The data used for this project was obtained from the Eviction Lab and the American Community Survey (ACS) from census.gov. The Eviction Lab is a team of researchers based at Princeton University  who have created a national database from over 10,000,000 eviction records from 2000 to 2016. </p> 
  
 **Find The Data Files Here:**
-[Eviction Lab Census Tract Data](https://data-downloads.evictionlab.org/)
-[US Census](https://data.census.gov/cedsci/table?t=Populations%20and%20People&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2015.DP05)
+- [Eviction Lab Census Tract Data](https://data-downloads.evictionlab.org/)
+- [US Census](https://data.census.gov/cedsci/table?t=Populations%20and%20People&d=ACS%205-Year%20Estimates%20Data%20Profiles&tid=ACSDP5Y2015.DP05)
 
  
 ### Data Preparation
@@ -117,10 +117,8 @@ Key Findings
 
 <p>Comparisons between the final model's feature importances and permutation importances offer valuable insight into the functioning of the model.</p>
 
-<p float="left">
-  <img src="./images/perm_top5.png" width="350" />
-  <img src="./images/perm_bottom.png" width="350" /> 
-</p> 
+![img]('.images/perm_top5.png') 
+![img]('.images/perm_bottom.png')
 
 ![img]('.images/feature_importances.png')
 
