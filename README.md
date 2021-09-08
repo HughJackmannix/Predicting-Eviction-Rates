@@ -106,6 +106,7 @@ Key Findings
 
 ## Final Model
 <p>XGBoost (trained on IsolationForest data)</p>
+
 - R-Squared
     - Train = 0.9467
     - Test = 0.9435
@@ -119,10 +120,10 @@ Key Findings
 
 <p>Comparisons between the final model's feature importances and permutation importances offer valuable insight into the functioning of the model.</p>
 
-![img]('.images/perm_top5.png') 
-![img]('.images/perm_bottom.png')
+![img]('./images/perm_top5.png') 
+![img]('./images/perm_bottom.png')
 
-![img]('.images/feature_importances.png')
+![img]('./images/feature_importances.png')
 
 Key Findings
 1. Evicition Filing Rate is calculated as the most important features by both methods
