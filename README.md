@@ -102,7 +102,7 @@ Key Findings
 <p>Based upon their formulas, the inclusion of all of the features above would result in the model using these numbers to perfectly calculate the target variable (eviction rate). Because of this, different feature combinations were used during separate iterations. Significant improvement in R-Squared and RMSE scores resulted from using Eviction Filing Rate and  (#)Evictions.</p>
 
 ### Outlier Removal
-<p>Initial exploration reveals many outliers throughout the dataset, so IsolationForest is implemented with an iterative approach to determine how many and which outliers are removed. After several iterations of IsolationForest with varying contamination parameters, a contamination of 0.05%, removing 18 outliers from the training dataset, yields an improvement in both R-Squared and RMSE values</p>.
+<p>Initial exploration reveals many outliers throughout the dataset, so IsolationForest is implemented with an iterative approach to determine how many and which outliers are removed. After several iterations of IsolationForest with varying contamination parameters, a contamination of 0.05%, removing 18 outliers from the training dataset, yields an improvement in both R-Squared and RMSE values.</p>
 
 ## Final Model
 <p>XGBoost (trained on IsolationForest data)</p>
@@ -118,7 +118,7 @@ Key Findings
 
 ### Feature / Permuation Importances
 
-<p>Comparisons between the final model's feature importances and permutation importances offer valuable insight into the functioning of the model.</p>
+<p>Comparisons between the final model's feature importances and permutation importances offer valuable insight into the functioning of the model.</p>.
 
 ![img]('./images/perm_top5.png')
 
