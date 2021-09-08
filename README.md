@@ -10,10 +10,12 @@ To address the skyrocketing rate of evictions in the United States, the focus of
 ## Background 
 
 <p>A person is evicted when they are expelled from a property by the property’s landlord. Landlords can evict tenants for a variety of reasons, including unpaid rent, or damaged properties; however, landlords can perform ‘no-fault evictions,’ when a tenant has not violated their leasing contract. Evictions should not only be observed as an issue of housing, but as an issue of public health as well. A family that experiences an eviction is much more likely to experience a host of mental health issues, job loss, and homelessness. As the COVID-19 pandemic persists and the national eviction moratorium has ended, many Americans are finding that they are at a higher risk of eviction as contracting COVID-19 as a direct result. </p>
-[source](https://evictionlab.org/why-eviction-matters/#eviction-impact)
+
+- [source](https://evictionlab.org/why-eviction-matters/#eviction-impact)
 
 <p>The ability to foresee a census tract’s eviction rate is crucial for the allocation of appropriate resources. 90% of tenants facing evictions do not receive legal representation for their legal case, and are much more likely to be evicted than the 10% with representation. Knowing this, the ability to foresee a census tract’s eviction rate is crucial for allocating free legal resources in areas that face the greatest risks of eviction.</p>
-[source](https://www.irp.wisc.edu/publications/fastfocus/pdfs/FF22-2015.pdf)
+
+- [source](https://www.irp.wisc.edu/publications/fastfocus/pdfs/FF22-2015.pdf)
 
 
 ## Methodology 
