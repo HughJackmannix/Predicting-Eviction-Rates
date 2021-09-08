@@ -120,7 +120,8 @@ Key Findings
 
 <p>Comparisons between the final model's feature importances and permutation importances offer valuable insight into the functioning of the model.</p>
 
-![img]('./images/perm_top5.png') 
+![img]('./images/perm_top5.png')
+
 ![img]('./images/perm_bottom.png')
 
 ![img]('./images/feature_importances.png')
